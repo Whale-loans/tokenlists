@@ -1,0 +1,46 @@
+{
+    "name": "BSC Testnet List",
+    "timestamp": "2021-03-17T09:56:23Z",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+    "keywords": ["pancake", "default"],
+    "tokens": [
+      {
+        "name": "WBNB Token",
+        "symbol": "WBNB",
+        "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+      },
+      {
+        "name": "BUSD Token",
+        "symbol": "BUSD",
+        "address": "0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+      },
+      {
+        "name": "USDT Token",
+        "symbol": "USDT",
+        "address": "0x7ef95a0fee0dd31b22626fa2e10ee6a223f8a684",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x55d398326f99059fF775485246999027B3197955.png"
+      },
+      {
+        "name": "DAI Token",
+        "symbol": "DAI",
+        "address": "0x8a9424745056Eb399FD19a0EC26A14316684e274",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+      }
+    ]
+  }
