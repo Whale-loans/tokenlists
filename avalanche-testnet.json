@@ -1,0 +1,46 @@
+{
+    "name": "Avalanche Testnet List",
+    "timestamp": "2022-04-07T00:00:00Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://cryptologos.cc/logos/avalanche-avax-logo.png",
+    "keywords": ["avalanche", "default"],
+    "tokens": [
+      {
+        "name": "Wrapped AVAX",
+        "symbol": "WAVAX",
+        "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+        "chainId": 43113,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+      },
+      {
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "address": "0xd62303857B8E8685c10E486EC92cff7c9C2a7a9f",
+        "chainId": 43113,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+      },
+      {
+        "name": "USDT Token",
+        "symbol": "USDT",
+        "address": "0x251AA5624b902a8183C6E991832dA0f0Fd18D5aB",
+        "chainId": 43113,
+        "decimals": 18,
+        "logoURI": "https://tokens.pancakeswap.finance/images/0x55d398326f99059fF775485246999027B3197955.png"
+      },
+      {
+        "name": "Pangolin",
+        "symbol": "PNG",
+        "address": "0x83080D4b5fC60e22dFFA8d14AD3BB41Dde48F199",
+        "chainId": 43113,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+      }
+    ]
+  }
