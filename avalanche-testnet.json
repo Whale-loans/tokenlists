@@ -1,5 +1,5 @@
 {
-    "name": "Avalanche Testnet List",
+    "name": "AVAX Testnet List",
     "timestamp": "2022-04-07T00:00:00Z",
     "version": {
       "major": 1,
@@ -43,4 +43,4 @@
         "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
       }
     ]
-  }
+}
