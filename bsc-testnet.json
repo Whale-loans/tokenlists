@@ -7,32 +7,32 @@
       "patch": 0
     },
     "tags": {},
-    "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
-    "keywords": ["pancake", "default"],
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
+    "keywords": ["default"],
     "tokens": [
       {
         "name": "WBNB Token",
         "symbol": "WBNB",
-        "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+        "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
         "chainId": 97,
         "decimals": 18,
-        "logoURI": "https://tokens.pancakeswap.finance/images/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
       },
       {
         "name": "BUSD Token",
         "symbol": "BUSD",
-        "address": "0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7",
+        "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
         "chainId": 97,
         "decimals": 18,
-        "logoURI": "https://tokens.pancakeswap.finance/images/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
       },
       {
         "name": "USDT Token",
         "symbol": "USDT",
-        "address": "0x7ef95a0fee0dd31b22626fa2e10ee6a223f8a684",
+        "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
         "chainId": 97,
         "decimals": 18,
-        "logoURI": "https://tokens.pancakeswap.finance/images/0x55d398326f99059fF775485246999027B3197955.png"
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/USDT-6D8/logo.png"
       },
       {
         "name": "DAI Token",
@@ -40,7 +40,7 @@
         "address": "0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867",
         "chainId": 97,
         "decimals": 18,
-        "logoURI": "https://tokens.pancakeswap.finance/images/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+        "logoURI": "https://github.com/trustwallet/assets/blob/master/blockchains/binance/assets/DAI-D75/logo.png"
       }
     ]
   }

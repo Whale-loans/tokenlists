@@ -1,0 +1,38 @@
+{
+    "name": "Ethereum Ropsten Testnet List",
+    "timestamp": "2021-03-17T09:56:23Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+    "keywords": ["default"],
+    "tokens": [
+        {
+            "name": "Wrapped Ether",
+            "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 3,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+        },
+        {
+            "name": "Dai Stablecoin",
+            "address": "0xc2118d4d90b274016cB7a54c03EF52E6c537D957",
+            "symbol": "DAI",
+            "decimals": 18,
+            "chainId": 3,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png"
+          },
+          {
+            "name": "USD Coin",
+            "address": "0x0D9C8723B343A8368BebE0B5E89273fF8D712e3C",
+            "symbol": "USDC",
+            "decimals": 6,
+            "chainId": 3,
+            "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+          }
+    ]
+}
