@@ -1,0 +1,38 @@
+{
+    "name": "Optimism Test List",
+    "timestamp": "2022-05-30T09:56:23Z",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://static.optimism.io/logos/optimism.svg",
+    "keywords": ["default"],
+    "tokens": [
+        {
+            "name": "Wrapped Ether",
+            "address": "0xbC6F6b680bc61e30dB47721c6D1c5cde19C1300d",
+            "symbol": "WETH",
+            "decimals": 18,
+            "chainId": 69,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+        },
+        {
+            "name": "Dai Stablecoin",
+            "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+            "symbol": "DAI",
+            "decimals": 18,
+            "chainId": 69,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+        },
+        {
+            "name": "vUSD",
+            "address": "0xbD21D227d989A1Ee1BC717F1658474c487A06993",
+            "symbol": "vUSD",
+            "decimals": 6,
+            "chainId": 69,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+        }
+    ]
+}
