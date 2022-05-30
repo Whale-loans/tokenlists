@@ -1,0 +1,56 @@
+{
+    "name": "Aurora Testnet",
+    "logoURI": "https://raw.githubusercontent.com/aurora-is-near/aurora-press-kit/master/Logos/SVG/aurora-stack.svg",
+    "keywords": [
+      "aurora",
+      "near",
+      "rainbow",
+      "bridge",
+      "audited",
+      "verified"
+    ],
+    "tags": {
+      "aurora": {
+        "name": "Native Aurora",
+        "description": "Tokens that were deployed initially on Aurora."
+      },
+      "near": {
+        "name": "Native NEAR",
+        "description": "Tokens that were deployed initially on NEAR. They have an equivalent token in Aurora."
+      },
+      "ethereum": {
+        "name": "Native Ethereum",
+        "description": "Tokens that were deployed initially on Ethereum. They have an equivalent token in NEAR and Aurora."
+      },
+      "bsc": {
+        "name": "Native BSC",
+        "description": "Tokens that were deployed initially on BSC. They have an equivalent token in NEAR and Aurora."
+      },
+      "terra": {
+        "name": "Native Terra",
+        "description": "Tokens that were deployed initially on Terra. They have an equivalent token in Aurora."
+      },
+      "allbridge": {
+        "name": "Bridge Allbridge",
+        "description": "Tokens that were bridged using Allbridge"
+      }
+    },
+    "timestamp": "2022-05-27T11:23:13+00:00",
+    "version": {
+        "major": 1,
+        "minor": 1,
+        "patch": 0
+    },
+    "tokens": [
+      {
+        "chainId": 1313161555,
+        "address": "0xc06fafa6d5fEAbD686b4aB0f3De759ac3b277cEb",
+        "symbol": "WETH",
+        "name": "Wrapped Ethereum",
+        "decimals": 18,
+        "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+        "tags": []
+      }
+    ]
+  }
+  
