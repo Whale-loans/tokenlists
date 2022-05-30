@@ -1,0 +1,47 @@
+{
+    "name": "Cronos Testnet List",
+    "timestamp": "2022-05-08T07:24:15.408Z",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://swap.crodex.app/cro.png",
+    "keywords": ["Cronos", "default"],
+    "tokens": [
+      {
+        "name": "Wrapped CRO",
+        "address": "0x923a5A0FaFb0174a0749E18Ceb0A8751898C76Cf",
+        "symbol": "wCRO",
+        "decimals": 18,
+        "chainId": 338,
+        "logoURI": "https://swap.crodex.app/cro.png"
+      },
+      {
+        "name": "USD Coin",
+        "address": "0x9F8A4eEa05e6235f9F84a879276DD1F03401eF2F",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 338,
+        "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png?v=014"
+      },
+      {
+        "name": "DAI Stablecoin",
+        "address": "0x2C6CEce3d80016B6BEe550cEfc155C0e807c0e60",
+        "symbol": "DAI",
+        "decimals": 18,
+        "chainId": 338,
+        "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png?v=014"
+      },
+      {
+        "name": "Wrapped Ether",
+        "address": "0x1E967ad1929579b0248CdB437E4628558282e910",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 338,
+        "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.png?v=014"
+      }
+    ]
+  }
+  
