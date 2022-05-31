@@ -1,6 +1,6 @@
 {
     "name": "BSC Mainnet List",
-    "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+    "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
     "timestamp": "2022-05-27T12:17:25.447Z",
     "version": {
         "major": 1,
@@ -9,6 +9,14 @@
     },
     "keywords": ["default"],
     "tokens": [
+        {
+            "chainId": 56,
+            "address": "0xfAAec9f866Fa7f34a2c31c2B11D1723Ad4a46446",
+            "name": "Whale Loans",
+            "symbol": "HUMP",
+            "decimals": 9,
+            "logoURI": "https://github.com/Whale-loans/whale-assets/blob/22b1fa64e8fbcf12b397e2b92a2fca0e1162900b/Symbol_Only.png"
+        },
         {
             "chainId": 56,
             "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
