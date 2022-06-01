@@ -9,6 +9,7 @@
     },
     "keywords": ["default"],
     "tokens": [
+        
         {
             "chainId": 56,
             "address": "0xfAAec9f866Fa7f34a2c31c2B11D1723Ad4a46446",
@@ -16,6 +17,14 @@
             "symbol": "HUMP",
             "decimals": 9,
             "logoURI": "https://raw.githubusercontent.com/Whale-loans/whale-assets/22b1fa64e8fbcf12b397e2b92a2fca0e1162900b/Symbol_Only.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 18,
+            "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
         },
         {
             "chainId": 56,
