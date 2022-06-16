@@ -9,7 +9,14 @@
     },
     "keywords": ["default"],
     "tokens": [
-        
+        {
+            "chainId": 56,
+            "address": "0x593916DdD5E6645C05A4E85d42c1E43fa89787a0",
+            "name": "WhaleSwap Token",
+            "symbol": "POD",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Whale-loans/whale-assets/22b1fa64e8fbcf12b397e2b92a2fca0e1162900b/Symbol_Only.png"
+        },
         {
             "chainId": 56,
             "address": "0xfAAec9f866Fa7f34a2c31c2B11D1723Ad4a46446",
