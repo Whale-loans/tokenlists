@@ -19,6 +19,30 @@
         },
         {
             "chainId": 56,
+            "address": "0x4a2c860cEC6471b9F5F5a336eB4F38bb21683c98",
+            "name": "Green Satoshi Token",
+            "symbol": "GST",
+            "decimals": 8,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/20236.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0x17E65E6b9B166Fb8e7c59432F0db126711246BC0",
+            "name": "TiFi Token",
+            "symbol": "TIFI",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/19476.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b",
+            "name": "Tron",
+            "symbol": "TRX",
+            "decimals": 18,
+            "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png"
+        },
+        {
+            "chainId": 56,
             "address": "0xDE734047952E178450237948cDf2ca7F24c37Ad5",
             "name": "Reimagined Finance",
             "symbol": "ReFi",
