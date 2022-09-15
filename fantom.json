@@ -11,6 +11,14 @@
     "keywords": ["Fantom", "default"],
     "tokens": [
         {
+          "chainId": 250,
+          "address": "0xDDed222297B3d08DAFDAc8f65eeB799B2674C78F",
+          "name": "WhaleSwap Token",
+          "symbol": "POD",
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/Whale-loans/whale-assets/22b1fa64e8fbcf12b397e2b92a2fca0e1162900b/Symbol_Only.png"
+        },
+        {
             "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B",
             "chainId": 250,
             "decimals": 18,
