@@ -63,14 +63,6 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xFd6Ec3E37F112bD30BbD726E7b0E73000CC2B98d/logo.png",
-            "address": "0xFd6Ec3E37F112bD30BbD726E7b0E73000CC2B98d",
-            "symbol": "TT-HUSD",
-            "name": "TT-HUSD",
-            "decimals": 8
-        },
-        {
-            "chainId": 108,
             "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x0212b1F75503413b01A98158434c4570FB6e808c/logo.png",
             "address": "0x0212b1F75503413b01A98158434c4570FB6e808c",
             "symbol": "TT-HT",
@@ -251,14 +243,6 @@
             "address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
             "symbol": "BNB",
             "name": "Binance Token",
-            "decimals": 18
-        },
-        {
-            "chainId": 108,
-            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xabd380327fe66724ffda91a87c772fb8d00be488/logo.png",
-            "address": "0xabd380327fe66724ffda91a87c772fb8d00be488",
-            "symbol": "SUSHI",
-            "name": "SushiToken",
             "decimals": 18
         },
         {
