@@ -3,7 +3,7 @@
     "timestamp": "2023-05-15T01:00:00.000Z",
     "version": {
         "major": 1,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "tags": {},
@@ -15,7 +15,7 @@
     "tokens": [
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82/logo.png",
             "address": "0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82",
             "symbol": "TT-USDT",
             "name": "TT-USDT",
@@ -23,7 +23,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0x18fB0A62f207A2a082cA60aA78F47a1af4985190/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x18fB0A62f207A2a082cA60aA78F47a1af4985190/logo.png",
             "address": "0x18fB0A62f207A2a082cA60aA78F47a1af4985190",
             "symbol": "TT-WBTC",
             "name": "TT-WBTC",
@@ -31,7 +31,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e/logo.png",
             "address": "0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e",
             "symbol": "TT-USDC",
             "name": "TT-USDC",
@@ -39,7 +39,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077/logo.png",
             "address": "0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077",
             "symbol": "TT-ETH",
             "name": "TT-ETH",
@@ -47,7 +47,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xBEB0131D95AC3F03fd15894D0aDE5DBf7451d171/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xBEB0131D95AC3F03fd15894D0aDE5DBf7451d171/logo.png",
             "address": "0xBEB0131D95AC3F03fd15894D0aDE5DBf7451d171",
             "symbol": "TT-BUSD",
             "name": "TT-BUSD",
@@ -55,7 +55,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69/logo.png",
             "address": "0x8EF1A1E0671Aa44852f4d87105eF482470bB3e69",
             "symbol": "TT-BNB",
             "name": "TT-BNB",
@@ -63,7 +63,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xFd6Ec3E37F112bD30BbD726E7b0E73000CC2B98d/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xFd6Ec3E37F112bD30BbD726E7b0E73000CC2B98d/logo.png",
             "address": "0xFd6Ec3E37F112bD30BbD726E7b0E73000CC2B98d",
             "symbol": "TT-HUSD",
             "name": "TT-HUSD",
@@ -71,7 +71,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0x0212b1F75503413b01A98158434c4570FB6e808c/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x0212b1F75503413b01A98158434c4570FB6e808c/logo.png",
             "address": "0x0212b1F75503413b01A98158434c4570FB6e808c",
             "symbol": "TT-HT",
             "name": "TT-HT",
@@ -79,7 +79,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0/logo.png",
             "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
             "symbol": "GEM",
             "name": "NFTmall GEM Token",
@@ -87,7 +87,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0x1F489E0282cFA883A4224C91309bC4D4c062ed93/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x1F489E0282cFA883A4224C91309bC4D4c062ed93/logo.png",
             "address": "0x1F489E0282cFA883A4224C91309bC4D4c062ed93",
             "symbol": "NICER",
             "name": "NICER",
@@ -95,7 +95,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xC35a7A4adee299Bf44A32977647b3651D1378755/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xC35a7A4adee299Bf44A32977647b3651D1378755/logo.png",
             "address": "0xC35a7A4adee299Bf44A32977647b3651D1378755",
             "symbol": "MMKC",
             "name": "Myanmar Kyat Coin",
@@ -103,7 +103,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xC1E7000f379f2247Ae930ba98d5568cd9D0b924b/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xC1E7000f379f2247Ae930ba98d5568cd9D0b924b/logo.png",
             "address": "0xC1E7000f379f2247Ae930ba98d5568cd9D0b924b",
             "symbol": "RISER",
             "name": "RISER",
@@ -111,7 +111,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0x8C2eeccd83752DB11594e699BBC8f756c4d03Cb9/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x8C2eeccd83752DB11594e699BBC8f756c4d03Cb9/logo.png",
             "address": "0x8C2eeccd83752DB11594e699BBC8f756c4d03Cb9",
             "symbol": "PUNCH",
             "name": "Punch",
@@ -119,7 +119,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xe15c1cbF2de3fd15864F48A66b9da07736dAF578/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xe15c1cbF2de3fd15864F48A66b9da07736dAF578/logo.png",
             "address": "0xe15c1cbF2de3fd15864F48A66b9da07736dAF578",
             "symbol": "GuessToken",
             "name": "GuessToken",
@@ -127,7 +127,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xD46d770b3032D92D9E1d4e5B925bB8840cDB4314/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xD46d770b3032D92D9E1d4e5B925bB8840cDB4314/logo.png",
             "address": "0xD46d770b3032D92D9E1d4e5B925bB8840cDB4314",
             "symbol": "ZIPPY",
             "name": "Zippy",
@@ -135,7 +135,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xFCDEa9f405bc6bd85C2e90c1DEbB9F3ca7a59D8f/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xFCDEa9f405bc6bd85C2e90c1DEbB9F3ca7a59D8f/logo.png",
             "address": "0xFCDEa9f405bc6bd85C2e90c1DEbB9F3ca7a59D8f",
             "symbol": "DICEZ",
             "name": "Zippy Dice",
@@ -143,7 +143,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0x152FeA8177a31F4FE1cDe7AdaB12C744F1860166/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x152FeA8177a31F4FE1cDe7AdaB12C744F1860166/logo.png",
             "address": "0x152FeA8177a31F4FE1cDe7AdaB12C744F1860166",
             "symbol": "HODLZ",
             "name": "Zippy Hodl",
@@ -151,7 +151,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0x47fe33d321EEF4719FdFf38EA72B1dFC7f0cdf10/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x47fe33d321EEF4719FdFf38EA72B1dFC7f0cdf10/logo.png",
             "address": "0x47fe33d321EEF4719FdFf38EA72B1dFC7f0cdf10",
             "symbol": "OOL",
             "name": "Oolong",
@@ -159,7 +159,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0x5E074fde1452F68FB30b314E10a0690BCDbB70DB/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x5E074fde1452F68FB30b314E10a0690BCDbB70DB/logo.png",
             "address": "0x5E074fde1452F68FB30b314E10a0690BCDbB70DB",
             "symbol": "oTT",
             "name": "Oolong TTpot",
@@ -167,7 +167,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0x6E690DaC861fE7441770f84146F263d1CFBE909C/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x6E690DaC861fE7441770f84146F263d1CFBE909C/logo.png",
             "address": "0x6E690DaC861fE7441770f84146F263d1CFBE909C",
             "symbol": "ACORN",
             "name": "Acorn",
@@ -175,7 +175,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xfE146D5710015d4075355fb7bE8d133346EC63c2/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xfE146D5710015d4075355fb7bE8d133346EC63c2/logo.png",
             "address": "0xfE146D5710015d4075355fb7bE8d133346EC63c2",
             "symbol": "RAM",
             "name": "Ram",
@@ -183,7 +183,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xD441cD6eCfA027721B4d9ea5D9a6A9649ad8b3dA/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xD441cD6eCfA027721B4d9ea5D9a6A9649ad8b3dA/logo.png",
             "address": "0xD441cD6eCfA027721B4d9ea5D9a6A9649ad8b3dA",
             "symbol": "FTT",
             "name": "Farm Thunder Token",
@@ -191,7 +191,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0x9BAFB0Da04147276711721627Bf37b026dbfe10F/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x9BAFB0Da04147276711721627Bf37b026dbfe10F/logo.png",
             "address": "0x9BAFB0Da04147276711721627Bf37b026dbfe10F",
             "symbol": "NUM",
             "name": "NUM Token",
@@ -199,7 +199,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xfF99e917cF1E081A4e52836bbE8DF610cbAb9DD7/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xfF99e917cF1E081A4e52836bbE8DF610cbAb9DD7/logo.png",
             "address": "0xfF99e917cF1E081A4e52836bbE8DF610cbAb9DD7",
             "symbol": "PMT",
             "name": "Planet Master Token",
@@ -207,7 +207,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xFA9DbFc80A3cFdd7192ccee23567d7bA58ea6F07/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xFA9DbFc80A3cFdd7192ccee23567d7bA58ea6F07/logo.png",
             "address": "0xFA9DbFc80A3cFdd7192ccee23567d7bA58ea6F07",
             "symbol": "TFN",
             "name": "Techno Fun",
@@ -215,7 +215,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0x333333331193762b9dd5828fA91aFA40d8432B7A/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x333333331193762b9dd5828fA91aFA40d8432B7A/logo.png",
             "address": "0x333333331193762b9dd5828fA91aFA40d8432B7A",
             "symbol": "XY",
             "name": "XY Token",
@@ -223,7 +223,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xD3e916699dA7266EF673d10342334e25cfFc2Ab6/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xD3e916699dA7266EF673d10342334e25cfFc2Ab6/logo.png",
             "address": "0xD3e916699dA7266EF673d10342334e25cfFc2Ab6",
             "symbol": "Dolphin",
             "name": "Dolphin",
@@ -231,7 +231,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0x8f23FC0257d6E8256cd3Fdea14911CA3E491DAB0/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x8f23FC0257d6E8256cd3Fdea14911CA3E491DAB0/logo.png",
             "address": "0x8f23FC0257d6E8256cd3Fdea14911CA3E491DAB0",
             "symbol": "Prize",
             "name": "Prize",
@@ -239,7 +239,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xab2aacf20b163e68e0a318aa8fee7e023b17ccd9/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xab2aacf20b163e68e0a318aa8fee7e023b17ccd9/logo.png",
             "address": "0xab2aacf20b163e68e0a318aa8fee7e023b17ccd9",
             "symbol": "Shark",
             "name": "Shark",
@@ -247,7 +247,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xf390830df829cf22c53c8840554b98eafc5dcbc2/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xf390830df829cf22c53c8840554b98eafc5dcbc2/logo.png",
             "address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
             "symbol": "BNB",
             "name": "Binance Token",
@@ -255,7 +255,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xabd380327fe66724ffda91a87c772fb8d00be488/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xabd380327fe66724ffda91a87c772fb8d00be488/logo.png",
             "address": "0xabd380327fe66724ffda91a87c772fb8d00be488",
             "symbol": "SUSHI",
             "name": "SushiToken",
@@ -263,7 +263,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xb12c13e66ade1f72f71834f2fc5082db8c091358/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xb12c13e66ade1f72f71834f2fc5082db8c091358/logo.png",
             "address": "0xb12c13e66ade1f72f71834f2fc5082db8c091358",
             "symbol": "BUSD",
             "name": "Binance USD",
@@ -271,7 +271,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xe6801928061cdbe32ac5ad0634427e140efd05f9/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xe6801928061cdbe32ac5ad0634427e140efd05f9/logo.png",
             "address": "0xe6801928061cdbe32ac5ad0634427e140efd05f9",
             "symbol": "ETH",
             "name": "Ethereum",
@@ -279,7 +279,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454/logo.png",
             "address": "0xd67de0e0a0fd7b15dc8348bb9be742f3c5850454",
             "symbol": "WBTC",
             "name": "Wrapped BTC",
@@ -287,7 +287,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98/logo.png",
             "address": "0xdc42728b0ea910349ed3c6e1c9dc06b5fb591f98",
             "symbol": "USDC",
             "name": "USD Coin",
@@ -295,7 +295,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0x0dcb0cb0120d355cde1ce56040be57add0185baa/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x0dcb0cb0120d355cde1ce56040be57add0185baa/logo.png",
             "address": "0x0dcb0cb0120d355cde1ce56040be57add0185baa",
             "symbol": "USDT",
             "name": "Tether USD",
@@ -303,7 +303,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0xff938bf442acef553441f06f35d2871a7393ec2e/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xff938bf442acef553441f06f35d2871a7393ec2e/logo.png",
             "address": "0xff938bf442acef553441f06f35d2871a7393ec2e",
             "symbol": "Seal",
             "name": "Seal",
@@ -311,7 +311,7 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://github.com/thundercore/token-list/blob/master/assets/thundercore/0x1d44A37D6104DF6Cf996425839829BE09bEE4F33/logo.png",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0x1d44A37D6104DF6Cf996425839829BE09bEE4F33/logo.png",
             "address": "0x1d44A37D6104DF6Cf996425839829BE09bEE4F33",
             "symbol": "LASER",
             "name": "Laser Token",
