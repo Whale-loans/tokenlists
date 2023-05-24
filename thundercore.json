@@ -3,7 +3,7 @@
     "timestamp": "2023-05-15T01:00:00.000Z",
     "version": {
         "major": 1,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
     "tags": {},
@@ -231,8 +231,8 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xab2aacf20b163e68e0a318aa8fee7e023b17ccd9/logo.png",
-            "address": "0xab2aacf20b163e68e0a318aa8fee7e023b17ccd9",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xAB2AACF20B163E68E0a318aa8FeE7E023B17cCD9/logo.png",
+            "address": "0xAB2AACF20B163E68E0a318aa8FeE7E023B17cCD9",
             "symbol": "Shark",
             "name": "Shark",
             "decimals": 18
@@ -287,8 +287,8 @@
         },
         {
             "chainId": 108,
-            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xff938bf442acef553441f06f35d2871a7393ec2e/logo.png",
-            "address": "0xff938bf442acef553441f06f35d2871a7393ec2e",
+            "logoURI": "https://raw.githubusercontent.com/thundercore/token-list/master/assets/thundercore/0xFf938bF442ACEF553441f06f35d2871a7393Ec2e/logo.png",
+            "address": "0xFf938bF442ACEF553441f06f35d2871a7393Ec2e",
             "symbol": "Seal",
             "name": "Seal",
             "decimals": 18
